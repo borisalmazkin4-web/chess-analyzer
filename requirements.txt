@@ -1,0 +1,4 @@
+python-telegram-bot==20.3
+python-chess==1.999
+emoji==2.8.0
+Pillow==10.0.0
